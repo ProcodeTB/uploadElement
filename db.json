@@ -1,8 +1,13 @@
 {
-  "files": [
+  "files": 
+[
   {
     "fileNameParam": "RAR.rar",
     "fileNameAffected": "RAR.rar"
+  },
+   {
+    "fileNameParam": "ZIP.zip",
+    "fileNameAffected": "ZIP.zip"
   }
 ]
 }
