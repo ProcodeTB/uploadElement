@@ -1,0 +1,74 @@
+[
+  {
+    "fileNameParam": "",
+    "fileNameAffected": ""
+  },
+  {
+    "fileNameParam": "ImageJPG.jpg",
+    "fileNameAffected": "ImageJPG.jpg"
+  },
+  {
+    "fileNameParam": "ImageJPEG.jpeg",
+    "fileNameAffected": "ImageJPEG.jpeg"
+  },
+  {
+    "fileNameParam": "ImageJPE.jpe",
+    "fileNameAffected": "ImageJPE.jpe"
+  },
+  {
+    "fileNameParam": "CSV.csv",
+    "fileNameAffected": "CSV.csv"
+  },
+  {
+    "fileNameParam": "PDF.pdf",
+    "fileNameAffected": "PDF.pdf"
+  },
+  {
+    "fileNameParam": "PNG.png",
+    "fileNameAffected": "PNG.png"
+  },
+  {
+    "fileNameParam": "TXT.txt",
+    "fileNameAffected": "TXT.txt"
+  },
+  {
+    "fileNameParam": "DOC.doc",
+    "fileNameAffected": "DOC.doc"
+  },
+  {
+    "fileNameParam": "DOCX.docx",
+    "fileNameAffected": "DOCX.docx"
+  },
+  {
+    "fileNameParam": "GIF.gif",
+    "fileNameAffected": "GIF.gif"
+  },
+  {
+    "fileNameParam": "MP4.mp4",
+    "fileNameAffected": "MP4.mp4"
+  },
+  {
+    "fileNameParam": "MP3.mp3",
+    "fileNameAffected": "MP3.mp3"
+  },
+  {
+    "fileNameParam": "AVI.avi",
+    "fileNameAffected": "AVI.avi"
+  },
+  {
+    "fileNameParam": "MOV.mov",
+    "fileNameAffected": "MOV.mov"
+  },
+  {
+    "fileNameParam": "WAV.wav",
+    "fileNameAffected": "WAV.wav"
+  },
+  {
+    "fileNameParam": "AAC.aac",
+    "fileNameAffected": "AAC.aac"
+  },
+  {
+    "fileNameParam": "ZIP.zip",
+    "fileNameAffected": "ZIP.zip"
+  }
+]
