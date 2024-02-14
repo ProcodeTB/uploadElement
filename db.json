@@ -1,14 +1,16 @@
-[
-    {
-        "fileNameParam": "RAR.rar",
-        "fileNameAffected": "RAR.rar"
-    },
-    {
-        "fileNameParam": "CSV.csv",
-        "fileNameAffected": "CSV.csv"
-    },
-    {
-        "fileNameParam": "ZIP.zip",
-        "fileNameAffected": "ZIP.zip"
-    }
-]
+{
+    "files": [
+        {
+            "fileNameParam": "RAR.rar",
+            "fileNameAffected": "RAR.rar"
+        },
+        {
+            "fileNameParam": "CSV.csv",
+            "fileNameAffected": "CSV.csv"
+        },
+        {
+            "fileNameParam": "ZIP.zip",
+            "fileNameAffected": "ZIP.zip"
+        }
+    ]
+}
